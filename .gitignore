@@ -1,0 +1,23 @@
+# Ignorar arquivos de configuração do sistema
+.idea/
+.vscode/
+
+# Ignorar arquivos de compilação e build
+node_modules/
+build/
+dist/
+
+# Ignorar arquivos de cache
+.cache/
+npm-debug.log*
+
+# Ignorar arquivos e diretórios específicos
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente (não suba seus segredos!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
