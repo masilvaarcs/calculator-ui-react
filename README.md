@@ -32,3 +32,10 @@ npm test
 ## Autor
 
 **Marcos Silva** — [LinkedIn](https://www.linkedin.com/in/marcosprogramador/)
+
+## 📸 Evidências
+
+<p align="center">
+  <img src="docs/evidencia-card.svg" alt="Evidência do projeto" width="840">
+</p>
+
